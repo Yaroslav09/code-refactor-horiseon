@@ -16,7 +16,7 @@ Bellow is a link to
 
 GitHub Repository [GitHub](https://github.com/Yaroslav09/code-refactor-horiseon)
 
-GitHub Page [GitHub](https://yaroslav09.github.io/code-refactor-horiseon/)
+GitHub Page [GitHub Page](https://yaroslav09.github.io/code-refactor-horiseon/)
 
 and screenshot of the web page
 
